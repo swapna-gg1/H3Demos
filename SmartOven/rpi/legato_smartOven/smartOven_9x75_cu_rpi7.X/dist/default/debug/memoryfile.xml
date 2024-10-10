@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/debug/smartOven_9x75_cu_rpi7.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>251658240</length>
+      <used>4620668</used>
+      <free>247037572</free>
+    </memory>
+  </executable>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/debug/smartOven_9x75_cu_nv10.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>218103808</length>
+      <used>18016668</used>
+      <free>200087140</free>
+    </memory>
+  </executable>
+</project>
