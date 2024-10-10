@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/debug/smartOven_9x75_curiosity_ac69t88a.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>251658240</length>
+      <used>4637788</used>
+      <free>247020452</free>
+    </memory>
+  </executable>
+</project>
