@@ -1,0 +1,1 @@
+$(MP_EXTRA_AS_PRE)  -c -mprocessor=$(MP_PROCESSOR_OPTION) -DXPRJ_dsi_xlcdc_9x75curiosity_wsRnd=$(CND_CONF)    -Wa,--defsym=__MPLAB_BUILD=1$(MP_EXTRA_AS_POST),--gdwarf-2 -mdfp="${DFP_DIR}"C:\harmonyPrj\legato_thermostatRound\firmware\src\config\dsi_xlcdc_9x75curiosity_wsRnd\cstartup.S

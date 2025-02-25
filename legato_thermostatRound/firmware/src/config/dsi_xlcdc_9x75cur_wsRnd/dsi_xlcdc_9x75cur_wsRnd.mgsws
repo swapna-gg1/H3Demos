@@ -1,0 +1,21 @@
+# Generated File - Do Not Modify!
+[properties]
+sdk_min_ver = [1, 0, 0]
+config_name = "dsi_xlcdc_9x75cur_wsRnd"
+x_resolution = 720
+y_resolution = 720
+color_mode = "RGBA8888"
+layer_count = 4
+canvas = true
+sys_time = true
+bezel = true
+circular = true
+responsive = true
+rtos_enabled = false
+c_flags = "-O1"
+link_flags = "-sINITIAL_MEMORY=32MB -sSTACK_SIZE=64KB -sALLOW_MEMORY_GROWTH"
+applications = ["app",]
+[properties.console]
+enable = false
+timestamp = true
+closed = true

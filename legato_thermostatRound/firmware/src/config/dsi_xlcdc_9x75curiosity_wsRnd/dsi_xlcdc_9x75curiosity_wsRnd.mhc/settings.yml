@@ -1,0 +1,14 @@
+format_version: v1.0
+configName: dsi_xlcdc_9x75curiosity_wsRnd
+folderName: thermo_9x75_curiosity_ws4in_r
+frameworkPath: C:\Users\c40450\harmony3
+processor: SAM9X75D2G
+projectName: thermo_9x75_curiosity_ws4in_r
+settings:
+  PackageFilter: ''
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: dev_packs\arm\CMSIS\5.8.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: dev_packs\Microchip\SAM9X7_DFP\1.1.120\atdf\SAM9X75D2G.atdf

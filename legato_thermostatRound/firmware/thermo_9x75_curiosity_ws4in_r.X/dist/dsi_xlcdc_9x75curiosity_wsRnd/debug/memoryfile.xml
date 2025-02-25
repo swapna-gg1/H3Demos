@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/dsi_xlcdc_9x75curiosity_wsRnd/debug/thermo_9x75_curiosity_ws4in_r.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>251658240</length>
+      <used>9596060</used>
+      <free>242062180</free>
+    </memory>
+  </executable>
+</project>

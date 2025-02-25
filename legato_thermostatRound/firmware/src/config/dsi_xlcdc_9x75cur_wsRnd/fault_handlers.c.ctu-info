@@ -1,0 +1,3 @@
+{"summary": "MisraExternalIdentifiers", "data": [{"name": "undefined_instruction_irq_handler", "file": "../src/config/dsi_xlcdc_9x75cur_wsRnd/fault_handlers.c", "line": 31, "column": 36, "decl": false}, {"name": "software_interrupt_irq_handler", "file": "../src/config/dsi_xlcdc_9x75cur_wsRnd/fault_handlers.c", "line": 39, "column": 36, "decl": false}, {"name": "data_abort_irq_handler", "file": "../src/config/dsi_xlcdc_9x75cur_wsRnd/fault_handlers.c", "line": 47, "column": 36, "decl": false}, {"name": "prefetch_abort_irq_handler", "file": "../src/config/dsi_xlcdc_9x75cur_wsRnd/fault_handlers.c", "line": 55, "column": 36, "decl": false}]}
+{"summary": "MisraInternalIdentifiers", "data": []}
+{"summary": "MisraLocalIdentifiers", "data": []}
