@@ -3,6 +3,8 @@
 a. rpi - 7" touch screen RPI displays. WVGA
 b. lvds AC69T88A - WVGA 
 c. NVDI - Nw vision 10 inch screen
+To explore this demo, download the [default.html](./SmartOven/lvdsAC69t88a/legato_smartOven/src/config/default/default.html)
+
 
 2. USB_CanvasDisplay
 This project uses SAM9X75 Curiosity and the WVGA LVDS display. Use USB Stick with 5 images.
